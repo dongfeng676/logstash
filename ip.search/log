@@ -1,0 +1,48 @@
+entry_count >10000 && entry info :{"id"=>69590, "site_name"=>"yzzc.net", "created_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.207.248", "search_time"=>"2015-09-22 07:49:00", "obtained_by"=>"bgp.he.net"}
+Time:2015-11-03 13:29:26 +0800: begin of crawl.
+Time:2015-11-03 13:29:26 +0800 Entry ID: 69590, Site Name: yzzc.net
+Time:2015-11-03 13:29:26 +0800: begin of parse_site_info.
+site_name:yzzc.net
+Crawler Error:Connection timed out - connect(2) for "qianfengbaoyu.com" port 80
+Crawler End.
+entry_count >10000 && entry info :{"id"=>69589, "site_name"=>"qunxinwangluo.com", "created_at"=>Tue, 22 Sep 2015 07:49:00 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 07:49:00 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.207.248", "search_time"=>"2015-09-22 07:49:00", "obtained_by"=>"bgp.he.net"}
+Time:2015-11-03 13:30:05 +0800: begin of crawl.
+Time:2015-11-03 13:30:05 +0800 Entry ID: 69589, Site Name: qunxinwangluo.com
+Time:2015-11-03 13:30:05 +0800: begin of parse_site_info.
+site_name:qunxinwangluo.com
+Crawler Error:Connection timed out - connect(2) for "yzzc.net" port 80
+Crawler End.
+entry_count >10000 && entry info :{"id"=>69591, "site_name"=>"z908.com", "created_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.207.248", "search_time"=>"2015-09-22 07:49:01", "obtained_by"=>"bgp.he.net"}
+Time:2015-11-03 13:30:30 +0800: begin of crawl.
+Time:2015-11-03 13:30:30 +0800 Entry ID: 69591, Site Name: z908.com
+Time:2015-11-03 13:30:30 +0800: begin of parse_site_info.
+site_name:z908.com
+Crawler Error:403 Forbidden
+Crawler End.
+entry_count >10000 && entry info :{"id"=>69592, "site_name"=>"zgbjw.net", "created_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.207.248", "search_time"=>"2015-09-22 07:49:01", "obtained_by"=>"bgp.he.net"}
+Time:2015-11-03 13:30:30 +0800: begin of crawl.
+Time:2015-11-03 13:30:30 +0800 Entry ID: 69592, Site Name: zgbjw.net
+Time:2015-11-03 13:30:30 +0800: begin of parse_site_info.
+Time:2015-11-03 13:30:30 +0800: begin of parse_site_info.
+Time:2015-11-03 13:30:30 +0800: begin of parse_site_info.
+site_name:zgbjw.net
+Crawler Error:Connection timed out - connect(2) for "qunxinwangluo.com" port 80
+Crawler End.
+entry_count >10000 && entry info :{"id"=>69590, "site_name"=>"yzzc.net", "created_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 07:49:01 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.207.248", "search_time"=>"2015-09-22 07:49:00", "obtained_by"=>"bgp.he.net"}
+Time:2015-11-03 13:31:09 +0800: begin of crawl.
+Time:2015-11-03 13:31:09 +0800 Entry ID: 69590, Site Name: yzzc.net
+Time:2015-11-03 13:31:09 +0800: begin of parse_site_info.
+Time:2015-11-03 13:31:09 +0800: begin of parse_site_info.
+Time:2015-11-03 13:31:09 +0800: begin of parse_site_info.
+site_name:yzzc.net
+Crawler Error:Connection timed out - connect(2) for "zgbjw.net" port 80
+Crawler End.
+
+site_name:irie-kotoko.com
+Time:2015-11-03 13:54:47 +0800: end of create site_info
+Time:2015-11-03 13:54:47 +0800: end of crawl,total spent time:12.707497989
+site_name:irie-kotoko.com
+
+Time:2015-11-03 13:54:47 +0800: end of create site_info
+Time:2015-11-03 13:54:47 +0800: end of crawl,total spent time:12.707497989
+

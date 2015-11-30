@@ -1,0 +1,7 @@
+APP_NAME (?<=<AppName_).*?(?=>)
+LOG_NAME (?<=<LogName_).*?(?=>)
+LOG_TYPE (?<=<LogType_).*?(?=>)
+SERVER_NAME (?<=<ServerName_).*?(?=>)
+COMPLETED Completed
+NEW_TIME %{YEAR}-%{MONTHNUM2}-%{MONTHDAY}
+HTTP DEBUG http-bio-%{GREEDYDATA:http_auto_0}

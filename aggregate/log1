@@ -1,0 +1,11 @@
+I, [2015-10-19T10:12:06.462522 #14503]  INFO -- : Time:2015-10-19 10:12:06 +0800 start Setup::LogsController.add_field
+I, [2015-10-19T10:12:06.466220 #14503]  INFO -- : Time:2015-10-19 10:12:06 +0800 start Class.get_match_patterns
+D, [2015-10-19T10:12:06.467711 #14503] DEBUG -- :     pattern_infos:[{:pattern_type_id=>"1", :pattern_type_name=>" 固定类型", :patterns=>[{:pattern_str=>"%{}", :pattern_desc=>nil}]}, {:pattern_type_id=>"2", :pattern_type_name=>"字符类型", :patterns=>[{:pattern_str=>"%{NOTSPACE}", :pattern_desc=>nil}, {:pattern_str=>"%{SPACE}", :pattern_desc=>nil}, {:pattern_str=>"%{DATA}", :pattern_desc=>nil}, {:pattern_str=>"%{GREEDYDATA}", :pattern_desc=>nil}, {:pattern_str=>"%{QUOTEDSTRING}", :pattern_desc=>nil}]}, {:pattern_type_id=>"3", :pattern_type_name=>"数值类型", :patterns=>[{:pattern_str=>"%{USER}", :pattern_desc=>nil}, {:pattern_str=>"%{INT}", :pattern_desc=>nil}, {:pattern_str=>"%{NUMBER}", :pattern_desc=>nil}]}, {:pattern_type_id=>"4", :pattern_type_name=>"日期类型", :patterns=>[{:pattern_str=>"%{TIME}", :pattern_desc=>nil}, {:pattern_str=>"%{DATE_US}", :pattern_desc=>nil}, {:pattern_str=>"%{DATE_ES}", :pattern_desc=>nil}, {:pattern_str=>"%{TIMESTAMP_ISO8601}", :pattern_desc=>nil}, {:pattern_str=>"%{DATESTAMP}", :pattern_desc=>nil}]}, {:pattern_type_id=>"5", :pattern_type_name=>"网络类型", :patterns=>[{:pattern_str=>"%{COMMONMAC}", :pattern_desc=>nil}, {:pattern_str=>"%{IP}", :pattern_desc=>nil}, {:pattern_str=>"%{HOSTNAME}", :pattern_desc=>nil}, {:pattern_str=>"%{HOST}", :pattern_desc=>nil}, {:pattern_str=>"%{HOSTPORT}", :pattern_desc=>nil}]}, {:pattern_type_id=>"6", :pattern_type_name=>"日志标记", :patterns=>[{:pattern_str=>"结束标记", :pattern_desc=>"结束标记"}, {:pattern_str=>"开始标记", :pattern_desc=>"开始标记"}]}]
+I, [2015-10-19T10:12:06.467788 #14503]  INFO -- : Time:2015-10-19 10:12:06 +0800 end Class.get_match_patterns
+I, [2015-10-19T10:12:06.467844 #14503]  INFO -- : Time:2015-10-19 10:12:06 +0800 start Setup::LogsController.add_field
+I, [2015-10-19T10:12:13.727417 #14503]  INFO -- : Time:2015-10-19 10:12:13 +0800 start Setup::AppsController.show_setting
+I, [2015-10-19T10:12:13.729723 #14503]  INFO -- : Time:2015-10-19 10:12:13 +0800 start TargetApp.get_server_repos
+INFO - 12345 - TASK_START - start
+id 1
+id 2
+INFO - 12345 - TASK_END - start

@@ -1,0 +1,3 @@
+RAILS0 passenger \(5\.0\.18\)
+RAILS1 passenger \[5\.0\.18\]
+RAILS2 passenger \{5\.0\.18\}

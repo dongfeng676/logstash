@@ -1,0 +1,16 @@
+ActionController::RoutingError
+app/controllers/setup/logs_controller.rb:52:in `show'
+railties 4.2.2 lib/rails/engine.rb:518:in
+app/controllers/setup/logs_controller.rb:52:in `show'
+app/controllers/setup/logs_controller.rb:52:in `show'
+app/controllers/setup/logs_controller.rb:52:in `show'
+passenger 5.0.18 lib/phusion_passenger/rack/thread_handler_extension.rb
+app/controllers/setup/logs_controller.rb:52:in `show'
+
+passenger {5.0.18} lib/phusion_passenger/rack/thread_handler_extension.rb
+passenger 6.0.18 lib/phusion_passenger/rack/thread_handler_extension.rb
+
+passenger (5.0.18) lib/phusion_passenger/rack/thread_handler_extension.rb
+passenger [5.0.18] lib/phusion_passenger/rack/thread_handler_extension.rb
+passenger {5.0.18} lib/phusion_passenger/rack/thread_handler_extension.rb
+

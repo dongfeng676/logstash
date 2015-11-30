@@ -1,0 +1,14 @@
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#entry_count >10000 && entry info :{"id"=>88306, "site_name"=>"h3g4k.science", "created_at"=>Tue, 22 Sep 2015 09:18:06 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 09:18:06 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.223.81", "search_time"=>"2015-09-22 09:18:06", "obtained_by"=>"bgp.he.net"}
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Time:2015-10-12 14:10:37 +0800: begin of crawl.
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Time:2015-10-12 14:10:37 +0800 Entry ID: 88306, Site Name: h3g4k.science
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Time:2015-10-12 14:10:37 +0800: begin of parse_site_info.
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#site_name:h3g4k.science
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Crawler Error:Connection timed out - connect(2) for "h3g4k.science" port 80
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Crawler End.
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#entry_count >10000 && entry info :{"id"=>88306, "site_name"=>"h3g4k.science", "created_at"=>Tue, 22 Sep 2015 09:18:06 CST +08:00, "updated_at"=>Tue, 22 Sep 2015 09:18:06 CST +08:00, "status"=>"未查询", "from_IP"=>"118.193.223.81", "search_time"=>"2015-09-22 09:18:06", "obtained_by"=>"bgp.he.net"}
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Time:2015-10-12 14:10:37 +0800: begin of crawl.
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Time:2015-10-12 14:10:37 +0800 Entry ID: 88306, Site Name: h3g4k.science
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Time:2015-10-12 14:10:37 +0800: begin of parse_site_info.
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#site_name:h3g4k.science
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Crawler Error:Connection timed out - connect(2) for "h3g4k.science" port 80
+@#@<ServerName_ipcrawl.yesqin.com><AppName_site.search><LogName_crawler.log>#@#Crawler End.

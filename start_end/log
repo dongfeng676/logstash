@@ -1,0 +1,6 @@
+Started POST "/moon/setup/logs/add_field" for 127.0.0.1 at 2015-11-24 14:49:33 +0800
+  Rendered layouts/_page_head.html.erb (0.2ms)
+  Rendered page1_country_grey.html.erb (0.5ms)
+  Rendered layouts/_page_head.html.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 38.1ms | ActiveRecord: 0.7ms)
+Started GET "/moon/assets/jquery.self.js?body=1" for 127.0.0.1 at 2015-11-24 14:49:33 +0800

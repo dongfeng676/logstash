@@ -1,0 +1,6 @@
+DEBUG http-bio-8080-exec-11 org.springframework.jdbc.datasource.DataSourceTransactionManager - Initiating transaction commit
+DEBUG http-bio-8080-exec-11 org.springframework.jdbc.datasource.DataSourceTransactionManager - Initiating transaction commit
+DEBUG http-bio-8080-exec-11 org.springframework.jdbc.datasource.DataSourceTransactionManager - Initiating transaction commit
+DEBUG http-bio-8080-exec-11 org.springframework.jdbc.datasource.DataSourceTransactionManager - Initiating transaction commit
+DEBUG http-bio-8080-exec-11 org.springframework.jdbc.datasource.DataSourceTransactionManager - Initiating transaction commit
+DEBUG http-bio-8080-exec-11 org.springframework.jdbc.datasource.DataSourceTransactionManager - Initiating transaction commit

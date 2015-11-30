@@ -1,0 +1,6 @@
+Jan 9, 2014 7:13:13 AM org.apache.tomcat.util.http.Parameters processParameters
+INFO: Character decoding failed. Parameter [dcp] with value [ppn.%epid!.] has been ignored. Note that the name and value quoted here may be corrupted due to the failed decoding. Use debug level logging to see the original, non-corrupted values.
+ Note: further occurrences of Parameter errors will be logged at DEBUG level.
+
+
+2014-01-09 17:32:25,527 -0800 | ERROR | com.example.controller.ApiController -
