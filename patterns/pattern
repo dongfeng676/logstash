@@ -1,3 +1,3 @@
 RUBY1 Processing by Setup
-RUBY2 %{RUBY1:ruby1}|%{GREEDYDATA:ruby2}
+RUBY2 %{RUBY1:ruby1}|%{GREEDYDATA:ruby1}
 RUBY3 %{RUBY2}::%{GREEDYDATA:method} as HTML
